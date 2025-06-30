@@ -1,0 +1,6 @@
+[submodule "reader-desktop"]
+	path = reader-desktop
+	url = git@github.com:MyNetdisk/reader-desktop.git
+[submodule "reader-mobile"]
+	path = reader-mobile
+	url = git@github.com:MyNetdisk/reader-mobile.git
